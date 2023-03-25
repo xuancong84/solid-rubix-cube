@@ -11,7 +11,9 @@ Mouse operations:
 - right-click drag to zoom in and out
 
 Features:
+- It supports standard Rubix cube, super-cube (directional), super-super-cube (directional and interior)
 - It saves movement history, you can forward and backward to a given step in history
 - You can highlight a specific layer for better visualization
 
+A sample solution (15x15x15) can be found in the ./Release folder, it is incomplete, but sufficient to illustrate the procedure.
 For details, see https://sites.google.com/site/xuancong84/supersupercube
